@@ -23,7 +23,7 @@ The project has been tested with one RTX 3090 on Ubuntu 20.04 / Ubuntu 22.04. Th
 
 ## Installation
 1. Follow the requirements and installation of `slayerPytorch` to install it, see `slayerPytorch/README.md`.
-2. Install any necessary packages in the `requirements.txt`.
+2. Install any necessary packages in the `requirements.txt` with `pip install` or `conda install`.
 
 ## Datasets
 
