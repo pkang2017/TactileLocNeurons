@@ -64,7 +64,7 @@ python confusion/confusion_location.py --runs <checkpoint dir>/cw_location_1
 python timestep_inference/inference_timestep.py --runs <checkpoint dir>/cw_location_1 --save <timestep inference dir>
 ```
 
-## Tranined model examples
+## Trained model examples
 1. Download models from [https://drive.google.com/drive/folders/1XBzpbk5Vt7E7qevlOW06GvFY0N_N8ymU?usp=sharing].
 2. Save the models in `history` folder.
 
