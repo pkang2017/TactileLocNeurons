@@ -1,9 +1,14 @@
 # TactileLocNeurons
 This package is a PyTorch implementation of the paper "Event-Driven Tactile Learning with Location Spiking Neurons".
-![TSRM vs. LSRM](LSN.png?raw=true "TSRM vs. LSRM")
+//
+
 *TSRM vs. LSRM*
-![The hybrid model](hybrid.png?raw=true "The hybrid model")
+![TSRM vs. LSRM](LSN.png?raw=true "TSRM vs. LSRM")
+
+//
 *The hybrid model*
+![The hybrid model](hybrid.png?raw=true "The hybrid model")
+
 
 ## Citation ##
 Kang, Peng and Banerjee, Srutarshi and Chopp, Henry and Katsaggelos, Aggelos and Cossairt, Oliver. "Event-Driven Tactile Learning with Location Spiking Neurons". 
